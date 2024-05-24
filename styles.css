@@ -1,0 +1,13 @@
+body{
+    font-family: "PT Serif", serif,sans-serif;
+}
+
+div p:hover{
+    color: #2c07d4de;
+
+}
+
+.text-end{
+    line-height: 2.5;
+    
+}
